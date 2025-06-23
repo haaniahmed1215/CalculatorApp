@@ -1,4 +1,4 @@
-# Calculator 🧮
+# Calculator (+-/*)
 
 This is a basic Java console-based calculator that supports:
 
