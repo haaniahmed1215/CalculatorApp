@@ -1,6 +1,6 @@
 # Calculator (+-/*)
 
-This is a basic Java console-based calculator that supports:
+This is a basic calculator using Java that supports:
 
 - Addition
 - Subtraction
@@ -9,20 +9,20 @@ This is a basic Java console-based calculator that supports:
 - Looping to allow multiple calculations
 - Uses Scanner for user input
 
-## 💻 Technologies Used
+## Technologies Used
 - Java
 - IntelliJ IDEA Community Edition
 - Git & GitHub
 
-## 📂 File Structure
+## File Structure
 - `src/Calculator.java` → Main logic of the calculator
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository
 2. Open in IntelliJ
-3. Run `Calculator.java` inside the `src` folder
+3. Run `CalculatorApp.java` inside the `src` folder
 
-## 📚 Concepts Covered
+## Concepts Covered
 - Java syntax & logic
 - Methods
 - Loops (`while`, `switch`)
@@ -30,5 +30,5 @@ This is a basic Java console-based calculator that supports:
 - User input (`Scanner`)
 - Git & GitHub workflow
 
-## ✍️ Author
-Haani Ahmed — Java Developer Intern
+## ✍Author
+Umme Haani  — Java Developer Intern
