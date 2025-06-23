@@ -31,4 +31,4 @@ This is a basic calculator using Java that supports:
 - Git & GitHub workflow
 
 ## ✍Author
-Umme Haani  — Java Developer Intern
+Umme Haani(ahmed) — Java Developer Intern
